@@ -10,3 +10,6 @@ Thumbs.db
 # IDE/editor settings
 .vscode/
 .idea/
+
+# Dependency directory
+node_modules/
